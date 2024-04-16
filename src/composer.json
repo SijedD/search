@@ -1,0 +1,21 @@
+{
+  "name": "sijedd/SubscriberSearch",
+  "description": "Module for working with arrays ",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "gr421_vidol",
+      "email": "Danilcarol56@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": "^7.4 | ^8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "SubscriberSearch\\": "src/"
+    }
+  }
+}
