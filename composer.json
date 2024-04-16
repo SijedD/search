@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "SubscriberSearch\\": "src/"
+      "sijedd\\subscriber_search\\": "src/"
     }
   }
 }
