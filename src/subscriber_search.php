@@ -3,7 +3,7 @@
 namespace Controller;
 use Illuminate\Database\Eloquent\Builder as EloquentBuilder;
 
-class SubscriberSearch
+class subscribersearch
 {
     public static function search(EloquentBuilder $query, $searchQuery)
     {
