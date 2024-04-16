@@ -1,9 +1,9 @@
 <?php
 
-namespace Controller;
+namespace SubscriberSearch;
 use Illuminate\Database\Eloquent\Builder as EloquentBuilder;
 
-class subscribersearch
+class SubscriberSearch
 {
     public static function search(EloquentBuilder $query, $searchQuery)
     {
