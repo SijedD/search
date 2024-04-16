@@ -1,6 +1,6 @@
 <?php
 
-namespace SubscriberSearch;
+namespace search;
 use Illuminate\Database\Eloquent\Builder as EloquentBuilder;
 
 class SubscriberSearch
