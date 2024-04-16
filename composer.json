@@ -15,7 +15,10 @@
   },
   "autoload": {
     "psr-4": {
-      "search\\": "search/"
+      "search\\": "src/"
     }
-  }
+  },
+  "files": [
+    "src/SubscriberSearch.php"
+  ]
 }
